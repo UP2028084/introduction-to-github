@@ -1,3 +1,9 @@
->>>>>>conflict
+ my-resume
+
 #Practice
-<<<<<<end 
+
+
+# References
+
+* octocat 1 😈
+
